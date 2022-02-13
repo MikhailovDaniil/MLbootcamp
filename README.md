@@ -1,2 +1,1 @@
-# prep2DScontest
-My preparations to data science competition 
+# [MLbootcamp](https://mlbootcamp.ru/ru/article/tutorial/)
